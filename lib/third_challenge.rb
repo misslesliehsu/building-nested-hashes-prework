@@ -10,7 +10,7 @@ def third_challenge
       :hero => {name: Romeo, age: "15", status: "Alive"
           },
       :hero_friends => ["Benvolio", "Mercutio"]
-   }, 
+   },
    :capulet => {
       :patriarch => {
         name: "Lord Capulet", age: "50"
@@ -23,5 +23,5 @@ def third_challenge
    }
   }
 
-  
+
 end
